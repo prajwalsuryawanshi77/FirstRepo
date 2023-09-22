@@ -1,1 +1,3 @@
 This is my first git comit
+
+new command is added
